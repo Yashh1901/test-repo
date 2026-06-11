@@ -3,7 +3,7 @@ import os
 
 # Hardcoded credentials
 DB_PASSWORD = "supersecret123"
-API_KEY = "sk-prod-abc123xyz"
+API_KEY = "sk-prod-abac123xyz"
 
 
 def divide(a, b):
